@@ -1,4 +1,4 @@
-## Hi, I'm Irene ✨​
+## Hi, I'm Irene Mejía ✨​
 
 📚 Robotics Intelligence student at Universitat Jaume I<br />
 🖥️ Full Stack Developer<br />
