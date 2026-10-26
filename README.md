@@ -1,6 +1,7 @@
 ## Hi, I'm Irene Mejía ✨​
 
-📚 Robotics Intelligence student at Universitat Jaume I<br />
+📚 M.Sc. Student in Inteliigent Systems at Universitat Jaume I<br />
+📚 Robotics Intelligence Degree<br />
 🖥️ Full Stack Developer<br />
 
 
